@@ -6,6 +6,7 @@ Ellie Discord Bot ©2018-2021 Emotion#6522
 
 ## Badges
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/EmotionChild/Ellie-v3.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/EmotionChild/Ellie-v3/alerts/) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/EmotionChild/Ellie-v3.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/EmotionChild/Ellie-v3/context:javascript)
 
 ## Contribution Guide
@@ -22,6 +23,8 @@ Ellie Discord Bot ©2018-2021 Emotion#6522
 ## Disclaimer
 
 This bot is in an early alpha stage and any help is very much appreciated
+
+Also please only push changes to the [Development Branch](https://github.com/EmotionChild/Ellie-v3/tree/development)
 
 ## Discord Server
 
