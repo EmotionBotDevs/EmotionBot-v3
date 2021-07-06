@@ -24,7 +24,7 @@ Ellie Discord Bot ©2018-2021 Emotion#6522
 
 This bot is in an early alpha stage and any help is very much appreciated
 
-Also please only push changes to the [Development Branch](https://github.com/EmotionChild/Ellie-v3/tree/development)
+Also please only push changes to the [Development Branch](https://github.com/EmotionBotDevs/Ellie-v3/tree/Development)
 
 ## Discord Server
 
