@@ -1,3 +1,5 @@
+## This project has been archived due to me not having much time to work on it
+
 # Ellie Discord Bot v3
 
 Ellie Discord Bot ©2018-2021 Emotion#6522
